@@ -244,12 +244,4 @@ Stack:
 
 **Créons ensemble quelque chose d'extraordinaire** 🚀
 
-<br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visitez_mon_Portfolio-4A90E2?style=for-the-badge)](https://hindbouya.netlify.app)
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
-
-</div>
