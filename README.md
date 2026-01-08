@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=250&section=header&text=HIND%20BOUYA&fontSize=80&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20•%20React%20•%20Vue%20•%20Laravel%20•%20Node.js&descSize=20&descAlignY=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=250&section=header&text=HIND%20BOUYA&fontSize=80&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20•%20React%20•%20Vue%20•%20Laravel%20•%20Node.js&descSize=20&descAlignY=62)
 
 </div>
 
@@ -234,6 +234,9 @@ Stack:
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=150&section=footer&reversal=false" width="100%"/>
 
 <br>
 
