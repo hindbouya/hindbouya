@@ -1,46 +1,45 @@
 <div align="center">
 
-# 👋 Salut, je suis **Hind BOUYA**
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=250&section=header&text=Hind%20BOUYA&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=fff)
 
-### 💻 Développeuse Full-Stack | Laravel • React • Vue.js • Node.js
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white)](https://hindbouya.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hindbouya99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hind-bouya)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/hindbouya)
-
-![](https://komarev.com/ghpvc/?username=hindbouya&style=flat-square&color=blueviolet)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&width=800&lines=Développeuse+Laravel+%7C+React.js+%7C+Vue.js+%7C+Node.js;Spécialisée+WordPress+%26+Développement+Full-Stack;Créatrice+de+Solutions+Web+Performantes)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 À propos
+## 👩‍💻 À propos
 
-```javascript
-const hind = {
-    role: "Full-Stack Developer",
-    stack: ["Laravel", "React.js", "Vue.js", "Node.js"],
-    specialty: "WordPress Development",
-    location: "Témara, Morocco 🇲🇦",
-    
-    currentFocus: "Building performant web solutions",
-    availability: "Looking for CDI opportunities",
-    
-    passion: [
-        "Creating custom WordPress themes & plugins",
-        "Building scalable REST APIs",
-        "Crafting modern user interfaces",
-        "Optimizing web performance"
-    ]
-};
-```
+Passionnée par le développement web full-stack, je conçois des applications performantes et modernes en utilisant les technologies Laravel, React.js, Vue.js et Node.js. Spécialisée dans le développement WordPress (thèmes custom, plugins sur-mesure, optimisation), je crée des solutions web complètes, de la conception à la mise en production.
 
-> Passionnée par le développement web full-stack, je conçois des applications performantes et modernes. Spécialisée dans le développement WordPress (thèmes custom, plugins sur-mesure, optimisation), je crée des solutions web complètes, de la conception à la mise en production. Mon expertise couvre Laravel, React.js, Vue.js et Node.js, avec un focus sur les bonnes pratiques et l'architecture logicielle.
+Diplômée en Développement Web et Mobile (2025), j'ai acquis une solide expérience pratique à travers plusieurs stages en agence et entreprise. Je développe des projets allant de sites WordPress optimisés à des applications web full-stack avec API REST, en intégrant les bonnes pratiques de développement et d'architecture logicielle.
 
 ---
 
-## 🛠️ Stack Technique
+## 🌐 Socials
+
+<div align="center">
+
+<a href="https://hindbouya.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-hindbouya.netlify.app-667EEA?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:hindbouya99@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-hindbouya99@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/hind-bouya" target="_blank">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Hind_BOUYA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/hindbouya" target="_blank">
+  <img src="https://img.shields.io/badge/💻_GitHub-@hindbouya-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=hindbouya&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## 💡 Compétences Techniques
 
 ### 🔤 Langages
 
@@ -49,15 +48,15 @@ const hind = {
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/php-icon.svg" width="48" height="48" alt="PHP" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
 <br>PHP
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
 <br>JavaScript
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
 <br>Python
 </td>
 <td align="center" width="96">
@@ -69,7 +68,7 @@ const hind = {
 <br>CSS3
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="SQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" />
 <br>SQL
 </td>
 </tr>
@@ -86,19 +85,19 @@ const hind = {
 <table>
 <tr>
 <td align="center" width="120">
-<img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="48" height="48" alt="Laravel" />
 <br>Laravel
 </td>
 <td align="center" width="120">
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="48" height="48" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
 <br>Node.js
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" alt="Express" />
 <br>Express.js
 </td>
 <td align="center" width="120">
-<img src="https://techstack-generator.vercel.app/wordpress-icon.svg" width="48" height="48" alt="WordPress" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="48" height="48" alt="WordPress" />
 <br>WordPress
 </td>
 </tr>
@@ -109,7 +108,7 @@ const hind = {
 <table>
 <tr>
 <td align="center" width="120">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
 <br>React.js
 </td>
 <td align="center" width="120">
@@ -121,7 +120,7 @@ const hind = {
 <br>Bootstrap
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="TailwindCSS" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="48" height="48" alt="TailwindCSS" />
 <br>TailwindCSS
 </td>
 </tr>
@@ -132,7 +131,7 @@ const hind = {
 <table>
 <tr>
 <td align="center" width="120">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
 <br>MySQL
 </td>
 <td align="center" width="120">
@@ -147,7 +146,7 @@ const hind = {
 <table>
 <tr>
 <td align="center" width="120">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
 <br>Git
 </td>
 <td align="center" width="120">
@@ -169,131 +168,126 @@ const hind = {
 
 ---
 
-## 💼 Projets Réalisés
+## 🚀 Projets Réalisés
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🎨 Développement WordPress
+```yaml
+Description:
+  Création de sites vitrines modernes
+  avec thèmes personnalisés et plugins
+  sur-mesure
 
-**Stack:** WordPress • PHP • HTML/CSS/JS
-
-**Description:**  
-Création de sites vitrines modernes avec thèmes personnalisés et plugins développés sur-mesure.
-
-**Highlights:**
-- ✨ Thèmes custom responsive
-- 🔌 Plugins développés from scratch
-- ⚡ Optimisation performances (-40%)
-- 🎨 Intégration maquettes Figma/XD
-- 🔍 SEO & bonnes pratiques
+Stack Technique:
+  - WordPress
+  - PHP
+  - HTML5/CSS3/JavaScript
+  
+Réalisations:
+  ✓ Thèmes custom responsive
+  ✓ Plugins développés sur-mesure
+  ✓ Optimisation performances (-40%)
+  ✓ Intégration maquettes Figma/XD
+  ✓ SEO & meilleures pratiques
+```
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 💼 Gestion Domiciliations
+### 💼 Application Gestion Domiciliations
+```yaml
+Description:
+  Plateforme full-stack pour la gestion
+  de domiciliations et bureaux équipés
 
-**Stack:** Laravel 12 • Vue.js 3 • MySQL
-
-**Description:**  
-Plateforme full-stack pour la gestion de domiciliations et bureaux équipés.
-
-**Highlights:**
-- 🏗️ Architecture MVC robuste
-- 🔌 API REST complète
-- 📱 Interface responsive moderne
-- 🔐 Authentification & autorisation
-- ✅ Tests fonctionnels
+Stack Technique:
+  - Laravel 12
+  - Vue.js 3
+  - MySQL
+  - Bootstrap
+  
+Réalisations:
+  ✓ Architecture MVC robuste
+  ✓ API REST complète
+  ✓ Interface responsive moderne
+  ✓ Authentification & autorisation
+  ✓ Tests fonctionnels
+```
 
 </td>
 </tr>
-
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 📦 Gestion de Stock
+### 📦 Système Gestion de Stock
+```yaml
+Description:
+  Application backend pour la gestion
+  complète des stocks et inventaires
 
-**Stack:** Laravel 9 • MySQL • API REST
-
-**Description:**  
-Application backend pour la gestion complète des stocks et inventaires.
-
-**Highlights:**
-- 🗄️ Modélisation BDD optimisée
-- 🔌 API REST (CRUD complet)
-- ✔️ Validation des données
-- 📊 Gestion produits/stocks/mouvements
-- 📖 Documentation API Postman
+Stack Technique:
+  - Laravel 9
+  - MySQL
+  - API REST
+  - Postman
+  
+Réalisations:
+  ✓ Modélisation base de données
+  ✓ API REST (endpoints CRUD)
+  ✓ Validation des données
+  ✓ Gestion produits/stocks/mouvements
+  ✓ Documentation API complète
+```
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 👥 Gestion Stagiaires
+### 👥 Plateforme Gestion Stagiaires
+```yaml
+Description:
+  Application web complète pour la
+  gestion administrative des stagiaires
 
-**Stack:** Laravel 9 • MySQL • Bootstrap
-
-**Description:**  
-Application web pour la gestion administrative complète des stagiaires.
-
-**Highlights:**
-- 📋 Analyse besoins & UML
-- 🏗️ Architecture MVC
-- ⚙️ Modules CRUD complets
-- 🔐 Système d'authentification
-- 👤 Gestion des rôles utilisateurs
+Stack Technique:
+  - Laravel 9
+  - MySQL
+  - Bootstrap
+  - JavaScript
+  
+Réalisations:
+  ✓ Analyse besoins & modélisation UML
+  ✓ Architecture MVC
+  ✓ Modules CRUD complets
+  ✓ Système d'authentification
+  ✓ Gestion des rôles utilisateurs
+```
 
 </td>
 </tr>
 </table>
 
----
-
-## 📈 Expérience
-
-```
-📍 Stage Développeuse Full-Stack | Majjane Agency
-   Sept - Nov 2025 | Rabat
-   → WordPress (thèmes, plugins), Développement full-stack
-
-📍 Stage Développeuse Backend | ERYX Maroc
-   Juil - Sept 2025 | Agdal-Ryad, Rabat
-   → Application gestion de stock (Laravel, API REST)
-
-📍 Stage Développeuse Full-Stack | ERYX Maroc
-   Mai - Juil 2025 | Agdal-Ryad, Rabat
-   → Gestion domiciliations (Laravel + Vue.js)
-
-📍 Stage Développeuse Web | LNRN
-   Mars - Avr 2023 | Hassan, Rabat
-   → Plateforme gestion stagiaires (Laravel)
-```
-
----
-
-## 🎯 Actuellement
-
-```diff
-+ 🔍 En recherche active d'un CDI
-+ 💼 Développement Full-Stack / WordPress
-+ 📍 Disponible à Rabat-Témara et environs
-+ 🎯 Prête à rejoindre une équipe créative et dynamique
-```
+</div>
 
 ---
 
 <div align="center">
 
-### 📫 Restons connectés !
+### 💼 Disponibilité
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hindbouya.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-hindbouya99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hindbouya99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hind-bouya)
+🔍 **Recherche active d'un CDI** en Développement Full-Stack / WordPress  
+📍 **Localisation:** Témara, Maroc 🇲🇦  
+🎯 **Objectif:** Rejoindre une équipe créative et dynamique
 
 ---
 
-**⭐ Si vous aimez mon travail, n'hésitez pas à explorer mes repositories !**
+**💜 Merci de visiter mon profil !**  
+*N'hésitez pas à explorer mes projets et me contacter pour toute collaboration* 🚀
 
-*Merci de votre visite* 💜
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer)
 
 </div>
