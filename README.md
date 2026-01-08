@@ -234,9 +234,6 @@ Stack:
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=150&section=footer&reversal=false" width="100%"/>
 
 <br>
 
