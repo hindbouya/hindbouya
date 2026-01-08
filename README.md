@@ -8,7 +8,7 @@
 
 Passionnée par le **développement web moderne** et la **conception d'applications performantes**, je crée des solutions full-stack innovantes, scalables et élégantes. Spécialisée dans l'écosystème JavaScript (React, Vue, Node.js) et le développement backend avec Laravel, je transforme des idées en produits digitaux aboutis.
 
-Diplômée en Développement Web et Mobile (2025), j'ai acquis une expertise solide en développant des applications complètes : de sites web interactifs avec chatbots IA à des systèmes de gestion médicale, en passant par des API REST robustes. Je maîtrise l'architecture moderne des applications (MERN/MEVN stack, MVC) et les meilleures pratiques de développement.
+Diplômée en Développement Web et Mobile (2025), j'ai acquis une expertise solide en développant des applications complètes : de sites web interactifs avec chatbots IA à des systèmes de gestion médicale, en passant par des API REST robustes. Je maîtrise l'architecture moderne des applications (MERN stack, MVC) et les meilleures pratiques de développement.
 
 ---
 
