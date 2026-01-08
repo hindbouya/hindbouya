@@ -39,134 +39,47 @@ Diplômée en Développement Web et Mobile (2025), j'ai acquis une solide expér
 
 ---
 
-## 💡 Compétences Techniques
-
-### 🔤 Langages
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
-<br>PHP
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-<br>Python
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-<br>HTML5
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-<br>CSS3
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" />
-<br>SQL
-</td>
-</tr>
-</table>
-
-</div>
-
-### 📚 Frameworks & Bibliothèques
-
-<div align="center">
-
-#### Backend
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="48" height="48" alt="Laravel" />
-<br>Laravel
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-<br>Node.js
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" alt="Express" />
-<br>Express.js
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="48" height="48" alt="WordPress" />
-<br>WordPress
-</td>
-</tr>
-</table>
-
-#### Frontend
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-<br>React.js
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
-<br>Vue.js
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
-<br>Bootstrap
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="48" height="48" alt="TailwindCSS" />
-<br>TailwindCSS
-</td>
-</tr>
-</table>
-
-#### Bases de Données
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-<br>MySQL
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-<br>MongoDB
-</td>
-</tr>
-</table>
-
-#### Outils & Environnement
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-<br>GitHub
-</td>
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
-<br>VS Code
-</td>
-<td align="center" width="120">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
-<br>Postman
-</td>
-</tr>
-</table>
-
-</div>
-
----
+🛠️ Stack Technique
+<details open>
+<summary><b>💻 Langages</b></summary>
+<br>
+Afficher l'image
+Afficher l'image
+Afficher l'image
+Afficher l'image
+Afficher l'image
+Afficher l'image
+</details>
+<details open>
+<summary><b>⚡ Backend</b></summary>
+<br>
+Afficher l'image
+Afficher l'image
+Afficher l'image
+Afficher l'image
+</details>
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br>
+Afficher l'image
+Afficher l'image
+Afficher l'image
+Afficher l'image
+</details>
+<details open>
+<summary><b>🗄️ Bases de Données</b></summary>
+<br>
+Afficher l'image
+Afficher l'image
+</details>
+<details open>
+<summary><b>🔧 Outils & Environnement</b></summary>
+<br>
+Afficher l'image
+Afficher l'image
+Afficher l'image
+Afficher l'image
+</details>
 
 ## 🚀 Projets Réalisés
 
