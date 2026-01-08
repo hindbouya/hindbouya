@@ -2,9 +2,17 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=250&section=header&text=Hind%20BOUYA&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=fff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Full-Stack+Developer;%E2%9C%A8+WordPress+Specialist;%F0%9F%9A%80+Building+Creative+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&width=800&lines=Développeuse+Laravel+%7C+React.js+%7C+Vue.js+%7C+Node.js;Spécialisée+WordPress+%26+Développement+Full-Stack;Créatrice+de+Solutions+Web+Performantes)](https://git.io/typing-svg)
 
 </div>
+
+---
+
+## 👩‍💻 À propos
+
+Passionnée par le développement web full-stack, je conçois des applications performantes et modernes en utilisant les technologies Laravel, React.js, Vue.js et Node.js. Spécialisée dans le développement WordPress (thèmes custom, plugins sur-mesure, optimisation), je crée des solutions web complètes, de la conception à la mise en production.
+
+Diplômée en Développement Web et Mobile (2025), j'ai acquis une solide expérience pratique à travers plusieurs stages en agence et entreprise. Je développe des projets allant de sites WordPress optimisés à des applications web full-stack avec API REST, en intégrant les bonnes pratiques de développement et d'architecture logicielle.
 
 ---
 
@@ -33,38 +41,7 @@
 
 ## 💡 Compétences Techniques
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="60" height="60"/>
-<br><strong>WordPress</strong>
-<br><sub>Thèmes & Plugins</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="60" height="60"/>
-<br><strong>Laravel</strong>
-<br><sub>API & Backend</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" height="60"/>
-<br><strong>Vue.js</strong>
-<br><sub>Frontend Moderne</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
-<br><strong>MySQL</strong>
-<br><sub>Base de Données</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🔤 Langages
+### 🔤 Langages
 
 <div align="center">
 
@@ -99,13 +76,12 @@
 
 </div>
 
----
-
-## 📚 Frameworks & Bibliothèques
+### 📚 Frameworks & Bibliothèques
 
 <div align="center">
 
-### Backend
+#### Backend
+
 <table>
 <tr>
 <td align="center" width="120">
@@ -127,16 +103,17 @@
 </tr>
 </table>
 
-### Frontend
+#### Frontend
+
 <table>
 <tr>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
-<br>Vue.js
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+<br>React.js
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-<br>React
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
+<br>Vue.js
 </td>
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
@@ -149,7 +126,8 @@
 </tr>
 </table>
 
-### Bases de Données
+#### Bases de Données
+
 <table>
 <tr>
 <td align="center" width="120">
@@ -163,7 +141,8 @@
 </tr>
 </table>
 
-### Outils & Environnement
+#### Outils & Environnement
+
 <table>
 <tr>
 <td align="center" width="120">
@@ -199,14 +178,22 @@
 
 ### 🎨 Développement WordPress
 ```yaml
-Type: Sites Vitrines & E-commerce
-Stack: WordPress, PHP, HTML/CSS/JS
+Description:
+  Création de sites vitrines modernes
+  avec thèmes personnalisés et plugins
+  sur-mesure
+
+Stack Technique:
+  - WordPress
+  - PHP
+  - HTML5/CSS3/JavaScript
+  
 Réalisations:
-  ✓ Thèmes custom from scratch
-  ✓ Plugins sur-mesure
+  ✓ Thèmes custom responsive
+  ✓ Plugins développés sur-mesure
   ✓ Optimisation performances (-40%)
   ✓ Intégration maquettes Figma/XD
-  ✓ WooCommerce & multilingue
+  ✓ SEO & meilleures pratiques
 ```
 
 </td>
@@ -214,14 +201,22 @@ Réalisations:
 
 ### 💼 Application Gestion Domiciliations
 ```yaml
-Type: Application Full-Stack
-Stack: Laravel 12 + Vue.js 3
-Fonctionnalités:
-  ✓ Architecture MVC & API REST
-  ✓ Interface responsive Bootstrap
-  ✓ Gestion clients & réservations
-  ✓ Tests fonctionnels complets
+Description:
+  Plateforme full-stack pour la gestion
+  de domiciliations et bureaux équipés
+
+Stack Technique:
+  - Laravel 12
+  - Vue.js 3
+  - MySQL
+  - Bootstrap
+  
+Réalisations:
+  ✓ Architecture MVC robuste
+  ✓ API REST complète
+  ✓ Interface responsive moderne
   ✓ Authentification & autorisation
+  ✓ Tests fonctionnels
 ```
 
 </td>
@@ -231,14 +226,22 @@ Fonctionnalités:
 
 ### 📦 Système Gestion de Stock
 ```yaml
-Type: Backend API
-Stack: Laravel 9 + MySQL
+Description:
+  Application backend pour la gestion
+  complète des stocks et inventaires
+
+Stack Technique:
+  - Laravel 9
+  - MySQL
+  - API REST
+  - Postman
+  
 Réalisations:
-  ✓ Modélisation BDD complète
+  ✓ Modélisation base de données
   ✓ API REST (endpoints CRUD)
   ✓ Validation des données
-  ✓ Documentation Postman
   ✓ Gestion produits/stocks/mouvements
+  ✓ Documentation API complète
 ```
 
 </td>
@@ -246,14 +249,22 @@ Réalisations:
 
 ### 👥 Plateforme Gestion Stagiaires
 ```yaml
-Type: Application Web
-Stack: Laravel 9 + MySQL
-Fonctionnalités:
-  ✓ Analyse besoins & UML
+Description:
+  Application web complète pour la
+  gestion administrative des stagiaires
+
+Stack Technique:
+  - Laravel 9
+  - MySQL
+  - Bootstrap
+  - JavaScript
+  
+Réalisations:
+  ✓ Analyse besoins & modélisation UML
   ✓ Architecture MVC
   ✓ Modules CRUD complets
-  ✓ Système authentification
-  ✓ Gestion des rôles (admin/encadrant)
+  ✓ Système d'authentification
+  ✓ Gestion des rôles utilisateurs
 ```
 
 </td>
@@ -292,10 +303,6 @@ Fonctionnalités:
 **Licence en Développement Web et Mobile** | ISMAGI (2024-2025)  
 **Formation JobinTech SQL/PLSQL** | ENSAM (2023)  
 **Technicienne Spécialisée Développement Digital** | ISTA NTIC (2021-2023)
-
----
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
