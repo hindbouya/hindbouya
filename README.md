@@ -1,4 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=200&section=header&text=Hind%20BOUYA&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff)
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=250&section=header&text=HIND%20BOUYA&fontSize=80&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20•%20React%20•%20Vue%20•%20Laravel%20•%20Node.js&descSize=20&descAlignY=62)
+
+</div>
 
 ### Développeuse Full-Stack | Spécialisée React.js • Vue.js • Laravel • Node.js
 
@@ -54,37 +58,165 @@ Diplômée en Développement Web et Mobile (2025), j'ai acquis une expertise sol
 
 ---
 
-# Projets Réalisés
+# 🚀 Projets Réalisés
 
-### **Site Web Vitrine Interactif** – *Application React moderne*
+<div align="center">
 
-* Site vitrine responsive avec chatbot IA intégré
-* **React.js, Next.js, CSS (Moodtrap), Chatbot AI**
-* Interface moderne, SEO optimisé, expérience utilisateur immersive
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+<h3 align="center">🌐 Site Web Vitrine Interactif</h3>
 
-### **Medical Office Management** – *Système de gestion médicale*
+<div align="center">
 
-* Plateforme complète pour gestion cabinet médical (patients, RDV, dossiers médicaux)
-* **React.js + Vite, Node.js, Express.js, MongoDB**
-* Architecture MERN stack, API REST, authentification sécurisée
+[![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)](https://github.com/hindbouya)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/hindbouya)
+[![AI](https://img.shields.io/badge/Chatbot-AI-blueviolet?style=flat-square)](https://github.com/hindbouya)
 
----
+<br>
 
-### **Système Gestion de Stock** – *Backend API*
+**Application React moderne**
 
-* Gestion produits, stocks, mouvements, API REST complète
-* **Laravel 9, MySQL, Postman**
-* Modélisation BDD, endpoints CRUD, validation données
+```yaml
+Description:
+  Site vitrine responsive avec
+  chatbot IA intégré pour
+  interaction utilisateur
+  
+Features:
+  ✨ Interface moderne & immersive
+  🤖 Chatbot IA conversationnel
+  📱 Design responsive (mobile-first)
+  ⚡ Performance optimisée
+  🔍 SEO optimisé
+  
+Stack:
+  • React.js
+  • Next.js
+  • CSS Moodtrap
+  • Chatbot AI Integration
+```
 
----
+</div>
 
-### **Plateforme Gestion Stagiaires** – *Application web*
+</td>
+<td width="50%" valign="top">
 
-* Gestion stagiaires, authentification, rôles utilisateurs
-* **Laravel 9, MySQL, Bootstrap, JavaScript**
-* Architecture MVC, modules CRUD, analyse besoins & UML
+<h3 align="center">🏥 Medical Office Management</h3>
+
+<div align="center">
+
+[![MERN](https://img.shields.io/badge/Stack-MERN-green?style=flat-square)](https://github.com/hindbouya)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/hindbouya)
+[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://github.com/hindbouya)
+
+<br>
+
+**Système de gestion médicale**
+
+```yaml
+Description:
+  Plateforme complète pour
+  gestion de cabinet médical
+  (patients, RDV, dossiers)
+  
+Features:
+  👥 Gestion patients & dossiers médicaux
+  📅 Système de réservation RDV
+  🔐 Authentification sécurisée
+  📊 Tableau de bord analytique
+  🔔 Notifications en temps réel
+  
+Stack:
+  • React.js + Vite
+  • Node.js + Express.js
+  • MongoDB
+  • JWT Auth
+```
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">📦 Système Gestion de Stock</h3>
+
+<div align="center">
+
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/hindbouya)
+[![API](https://img.shields.io/badge/API-REST-orange?style=flat-square)](https://github.com/hindbouya)
+
+<br>
+
+**Backend API robuste**
+
+```yaml
+Description:
+  API REST pour gestion
+  complète des stocks et
+  inventaires
+  
+Features:
+  📦 Gestion produits/stocks/mouvements
+  🔗 API REST (endpoints CRUD)
+  ✅ Validation robuste des données
+  📖 Documentation API Postman
+  🔍 Recherche & filtres avancés
+  
+Stack:
+  • Laravel 9
+  • MySQL
+  • API REST
+  • Postman
+```
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">👥 Plateforme Gestion Stagiaires</h3>
+
+<div align="center">
+
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/hindbouya)
+[![MVC](https://img.shields.io/badge/Architecture-MVC-blue?style=flat-square)](https://github.com/hindbouya)
+
+<br>
+
+**Application web complète**
+
+```yaml
+Description:
+  Système de gestion
+  administrative pour
+  stagiaires et formation
+  
+Features:
+  📋 Modules CRUD complets
+  🔑 Système d'authentification
+  👤 Gestion rôles utilisateurs
+  📊 Analyse besoins & UML
+  🏗️ Architecture MVC
+  
+Stack:
+  • Laravel 9
+  • MySQL
+  • Bootstrap
+  • JavaScript
+```
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -102,8 +234,22 @@ Diplômée en Développement Web et Mobile (2025), j'ai acquis une expertise sol
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=200&section=footer&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff)
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=150&section=footer&reversal=false" width="100%"/>
 
-### 💙 Merci de visiter mon profil ! Créons ensemble quelque chose d'incroyable ! 🚀
+<br>
+
+### 💙 Merci d'avoir visité mon profil !
+
+**Créons ensemble quelque chose d'extraordinaire** 🚀
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visitez_mon_Portfolio-4A90E2?style=for-the-badge)](https://hindbouya.netlify.app)
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+
+</div>
