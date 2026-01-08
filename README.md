@@ -1,229 +1,280 @@
 <div align="center">
 
-# 👋 Salut, je suis **Hind BOUYA**
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1b27,2d1b69,5b21b6&height=280&section=header&text=Hind%20BOUYA&fontSize=80&fontAlignY=40&animation=twinkling&fontColor=c084fc&desc=Full-Stack%20Developer%20|%20Laravel%20•%20React%20•%20Vue%20•%20Node.js&descAlignY=60&descSize=20)
 
-### 💻 Développeuse Full-Stack | Laravel • React • Vue.js • Node.js
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white)](https://hindbouya.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hindbouya99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hind-bouya)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/hindbouya)
-
-![](https://komarev.com/ghpvc/?username=hindbouya&style=flat-square&color=blueviolet)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Développeuse+Full-Stack;%E2%9C%A8+Spécialisée+WordPress;%F0%9F%92%BB+Laravel+%7C+React+%7C+Vue+%7C+Node.js;%F0%9F%8E%A8+Créatrice+de+Solutions+Web" alt="Typing SVG" />
 
 </div>
 
----
+<br/>
 
-## 🚀 À propos
+## 🌟 À propos
 
-```javascript
-const hind = {
-    role: "Full-Stack Developer",
-    stack: ["Laravel", "React.js", "Vue.js", "Node.js"],
-    specialty: "WordPress Development",
+<div align="center">
+
+```typescript
+const hindBouya = {
+    role: "Full-Stack Developer 💻",
+    specialization: "WordPress & Modern Web Apps 🎯",
     location: "Témara, Morocco 🇲🇦",
     
-    currentFocus: "Building performant web solutions",
-    availability: "Looking for CDI opportunities",
+    currentFocus: "Recherche CDI en développement Full-Stack/WordPress",
     
-    passion: [
-        "Creating custom WordPress themes & plugins",
-        "Building scalable REST APIs",
-        "Crafting modern user interfaces",
-        "Optimizing web performance"
-    ]
+    code: {
+        languages: ["PHP", "JavaScript", "Python", "HTML5", "CSS3", "SQL"],
+        backend: ["Laravel", "Node.js", "Express.js", "WordPress"],
+        frontend: ["React.js", "Vue.js", "Bootstrap", "TailwindCSS"],
+        databases: ["MySQL", "MongoDB"],
+        tools: ["Git", "GitHub", "VS Code", "Postman"]
+    },
+    
+    expertise: [
+        "🎨 Développement WordPress (thèmes custom, plugins)",
+        "⚡ Applications Full-Stack avec API REST",
+        "🚀 Architecture MVC & bonnes pratiques",
+        "✨ Intégration de maquettes & UI/UX"
+    ],
+    
+    learning: "Always improving my craft! 📚"
 };
 ```
 
-> Passionnée par le développement web full-stack, je conçois des applications performantes et modernes. Spécialisée dans le développement WordPress (thèmes custom, plugins sur-mesure, optimisation), je crée des solutions web complètes, de la conception à la mise en production. Mon expertise couvre Laravel, React.js, Vue.js et Node.js, avec un focus sur les bonnes pratiques et l'architecture logicielle.
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🔗 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010)](https://hindbouya.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:hindbouya99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/hind-bouya)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/hindbouya)
+
+![](https://komarev.com/ghpvc/?username=hindbouya&style=for-the-badge&color=blueviolet&label=VISITORS)
+
+</div>
+
+<br/>
 
 ---
 
-## 🛠️ Stack Technique
+<br/>
 
-<details open>
-<summary><b>💻 Langages</b></summary>
-<br>
+<h2 align="center">💡 Tech Stack</h2>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<br/>
 
-</details>
+<div align="center">
 
-<details open>
-<summary><b>⚡ Backend</b></summary>
-<br>
+### 🔤 Languages
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=php,js,python,html,css,mysql" alt="Languages" />
+</p>
 
-</details>
+### 📚 Frameworks & Libraries
 
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br>
+#### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,wordpress" alt="Backend" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+#### Frontend  
+<p>
+<img src="https://skillicons.dev/icons?i=react,vue,bootstrap,tailwind" alt="Frontend" />
+</p>
 
-</details>
+### 🗄️ Databases & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman" alt="Tools" />
+</p>
 
-<details open>
-<summary><b>🗄️ Bases de Données</b></summary>
-<br>
+</div>
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🔧 Outils & Environnement</b></summary>
-<br>
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</details>
+<br/>
 
 ---
 
-## 💼 Projets Réalisés
+<br/>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<br/>
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Développement WordPress
+<div align="center">
 
-**Stack:** WordPress • PHP • HTML/CSS/JS
+### 🎨 WordPress Development
 
-**Description:**  
-Création de sites vitrines modernes avec thèmes personnalisés et plugins développés sur-mesure.
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
-**Highlights:**
-- ✨ Thèmes custom responsive
-- 🔌 Plugins développés from scratch
-- ⚡ Optimisation performances (-40%)
-- 🎨 Intégration maquettes Figma/XD
-- 🔍 SEO & bonnes pratiques
+</div>
+
+```yaml
+Description:
+  Sites vitrines modernes avec thèmes
+  personnalisés et plugins sur-mesure
+
+Highlights:
+  ✨ Thèmes custom responsive
+  🔌 Plugins développés from scratch
+  ⚡ Optimisation performances (-40%)
+  🎨 Intégration maquettes Figma/XD
+  📈 SEO & meilleures pratiques
+
+Technologies:
+  WordPress • PHP • HTML/CSS • JavaScript
+```
 
 </td>
 <td width="50%" valign="top">
+
+<div align="center">
 
 ### 💼 Gestion Domiciliations
 
-**Stack:** Laravel 12 • Vue.js 3 • MySQL
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
 
-**Description:**  
-Plateforme full-stack pour la gestion de domiciliations et bureaux équipés.
+</div>
 
-**Highlights:**
-- 🏗️ Architecture MVC robuste
-- 🔌 API REST complète
-- 📱 Interface responsive moderne
-- 🔐 Authentification & autorisation
-- ✅ Tests fonctionnels
+```yaml
+Description:
+  Plateforme full-stack pour gestion
+  domiciliations et bureaux équipés
+
+Highlights:
+  🏗️ Architecture MVC robuste
+  🔗 API REST complète
+  📱 Interface responsive moderne
+  🔐 Auth & autorisation sécurisée
+  ✅ Tests fonctionnels
+
+Technologies:
+  Laravel 12 • Vue.js 3 • MySQL • Bootstrap
+```
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 📦 Gestion de Stock
+<div align="center">
 
-**Stack:** Laravel 9 • MySQL • API REST
+### 📦 Système Gestion Stock
 
-**Description:**  
-Application backend pour la gestion complète des stocks et inventaires.
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-**Highlights:**
-- 🗄️ Modélisation BDD optimisée
-- 🔌 API REST (CRUD complet)
-- ✔️ Validation des données
-- 📊 Gestion produits/stocks/mouvements
-- 📖 Documentation API Postman
+</div>
+
+```yaml
+Description:
+  Backend API pour gestion complète
+  des stocks et inventaires
+
+Highlights:
+  💾 Modélisation BDD optimisée
+  🔗 API REST (endpoints CRUD)
+  ✔️ Validation robuste des données
+  📦 Gestion produits/stocks/mouvements
+  📖 Documentation API Postman
+
+Technologies:
+  Laravel 9 • MySQL • API REST • Postman
+```
 
 </td>
 <td width="50%" valign="top">
 
-### 👥 Gestion Stagiaires
+<div align="center">
 
-**Stack:** Laravel 9 • MySQL • Bootstrap
+### 👥 Plateforme Stagiaires
 
-**Description:**  
-Application web pour la gestion administrative complète des stagiaires.
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-**Highlights:**
-- 📋 Analyse besoins & UML
-- 🏗️ Architecture MVC
-- ⚙️ Modules CRUD complets
-- 🔐 Système d'authentification
-- 👤 Gestion des rôles utilisateurs
+</div>
+
+```yaml
+Description:
+  Application web pour gestion
+  administrative des stagiaires
+
+Highlights:
+  📋 Analyse besoins & UML
+  🏗️ Architecture MVC
+  📝 Modules CRUD complets
+  🔑 Système d'authentification
+  👤 Gestion rôles utilisateurs
+
+Technologies:
+  Laravel 9 • MySQL • Bootstrap • JavaScript
+```
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
-## 📈 Expérience
-
-```
-📍 Stage Développeuse Full-Stack | Majjane Agency
-   Sept - Nov 2025 | Rabat
-   → WordPress (thèmes, plugins), Développement full-stack
-
-📍 Stage Développeuse Backend | ERYX Maroc
-   Juil - Sept 2025 | Agdal-Ryad, Rabat
-   → Application gestion de stock (Laravel, API REST)
-
-📍 Stage Développeuse Full-Stack | ERYX Maroc
-   Mai - Juil 2025 | Agdal-Ryad, Rabat
-   → Gestion domiciliations (Laravel + Vue.js)
-
-📍 Stage Développeuse Web | LNRN
-   Mars - Avr 2023 | Hassan, Rabat
-   → Plateforme gestion stagiaires (Laravel)
-```
+<br/>
 
 ---
 
-## 🎯 Actuellement
-
-```diff
-+ 🔍 En recherche active d'un CDI
-+ 💼 Développement Full-Stack / WordPress
-+ 📍 Disponible à Rabat-Témara et environs
-+ 🎯 Prête à rejoindre une équipe créative et dynamique
-```
-
----
+<br/>
 
 <div align="center">
 
-### 📫 Restons connectés !
+## 🎯 Currently
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hindbouya.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-hindbouya99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hindbouya99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hind-bouya)
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🔍_Status-Actively_Looking_for_Opportunities-success?style=for-the-badge" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/📍_Location-Témara,_Morocco-blueviolet?style=for-the-badge" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/💼_Position-Full--Stack_/_WordPress_Developer-blue?style=for-the-badge" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🎯_Goal-Join_a_Creative_&_Dynamic_Team-ff69b4?style=for-the-badge" />
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
 
 ---
 
-**⭐ Si vous aimez mon travail, n'hésitez pas à explorer mes repositories !**
+<br/>
 
-*Merci de votre visite* 💜
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1b27,2d1b69,5b21b6&height=120&section=footer&reversal=false" />
+
+<br/>
+
+### 💜 Thanks for visiting! Let's build something amazing together! 🚀
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
