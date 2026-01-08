@@ -1,10 +1,10 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=E34F26&height=200&section=header&text=Hind%20BOUYA&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=200&section=header&text=Hind%20BOUYA&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff)
 
-### Développeuse Full-Stack | Laravel • React • Vue • Node.js | WordPress Specialist
+### Développeuse Full-Stack | Spécialisée React.js • Vue.js • Laravel • Node.js
 
-Passionnée par le **développement web full-stack**, la **création de sites WordPress sur-mesure**, et les **applications modernes**, je conçois des solutions performantes, élégantes et fiables, basées sur les bonnes pratiques de développement.
+Passionnée par le **développement web moderne** et la **conception d'applications performantes**, je crée des solutions full-stack innovantes, scalables et élégantes. Spécialisée dans l'écosystème JavaScript (React, Vue, Node.js) et le développement backend avec Laravel, je transforme des idées en produits digitaux aboutis.
 
-Diplômée en Développement Web et Mobile (2025), je développe des projets allant de sites WordPress optimisés à des applications full-stack avec API REST, en intégrant architecture MVC, tests fonctionnels et meilleures pratiques.
+Diplômée en Développement Web et Mobile (2025), j'ai acquis une expertise solide en développant des applications complètes : de sites web interactifs avec chatbots IA à des systèmes de gestion médicale, en passant par des API REST robustes. Je maîtrise l'architecture moderne des applications (MERN/MEVN stack, MVC) et les meilleures pratiques de développement.
 
 ---
 
@@ -56,19 +56,19 @@ Diplômée en Développement Web et Mobile (2025), je développe des projets all
 
 # Projets Réalisés
 
-### **Développement WordPress** – *Sites vitrines modernes*
+### **Site Web Vitrine Interactif** – *Application React moderne*
 
-* Création de thèmes custom, plugins sur-mesure, optimisation performances
-* **WordPress, PHP, HTML/CSS/JavaScript**
-* Intégration maquettes Figma/XD, SEO
+* Site vitrine responsive avec chatbot IA intégré
+* **React.js, Next.js, CSS (Moodtrap), Chatbot AI**
+* Interface moderne, SEO optimisé, expérience utilisateur immersive
 
 ---
 
-### **Application Gestion Domiciliations** – *Plateforme full-stack*
+### **Medical Office Management** – *Système de gestion médicale*
 
-* Gestion domiciliations, bureaux équipés, clients, réservations
-* **Laravel 12, Vue.js 3, MySQL, Bootstrap**
-* Architecture MVC, API REST, tests fonctionnels
+* Plateforme complète pour gestion cabinet médical (patients, RDV, dossiers médicaux)
+* **React.js + Vite, Node.js, Express.js, MongoDB**
+* Architecture MERN stack, API REST, authentification sécurisée
 
 ---
 
@@ -102,4 +102,8 @@ Diplômée en Développement Web et Mobile (2025), je développe des projets all
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=E34F26&height=200&section=footer&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=200&section=footer&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff)
+
+---
+
+### 💙 Merci de visiter mon profil ! Créons ensemble quelque chose d'incroyable ! 🚀
