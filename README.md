@@ -85,7 +85,7 @@ Diplômée en Développement Web et Mobile (2025), j'ai acquis une solide expér
 <table>
 <tr>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" height="48" alt="Laravel" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="48" height="48" alt="Laravel" />
 <br>Laravel
 </td>
 <td align="center" width="120">
@@ -93,7 +93,7 @@ Diplômée en Développement Web et Mobile (2025), j'ai acquis une solide expér
 <br>Node.js
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" alt="Express" />
 <br>Express.js
 </td>
 <td align="center" width="120">
@@ -120,7 +120,7 @@ Diplômée en Développement Web et Mobile (2025), j'ai acquis une solide expér
 <br>Bootstrap
 </td>
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="TailwindCSS" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="48" height="48" alt="TailwindCSS" />
 <br>TailwindCSS
 </td>
 </tr>
@@ -277,32 +277,11 @@ Réalisations:
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hindbouya&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=9745F5&icon_color=9745F5&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hindbouya&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=9745F5&text_color=ffffff"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hindbouya&theme=react&hide_border=true&background=0D1117&stroke=9745F5&ring=9745F5&fire=9745F5&currStreakLabel=9745F5&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak"/>
-
-</div>
-
----
-
-<div align="center">
-
 ### 💼 Disponibilité
 
 🔍 **Recherche active d'un CDI** en Développement Full-Stack / WordPress  
 📍 **Localisation:** Témara, Maroc 🇲🇦  
 🎯 **Objectif:** Rejoindre une équipe créative et dynamique
-
----
-
-### 🎓 Formation
-
-**Licence en Développement Web et Mobile** | ISMAGI (2024-2025)  
-**Formation JobinTech SQL/PLSQL** | ENSAM (2023)  
-**Technicienne Spécialisée Développement Digital** | ISTA NTIC (2021-2023)
 
 ---
 
