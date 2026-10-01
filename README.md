@@ -121,15 +121,6 @@ Application web de gestion administrative des stagiaires.
 
 <!-- Ajoutez ici le lien du dépôt : [Voir le code](https://github.com/hindbouya/NOM-DU-DEPOT) -->
 
----
-
-## 📊 Statistiques GitHub
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=hindbouya&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=hindbouya&theme=radical&hide_border=false&layout=compact)
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=150&section=footer&reversal=false" width="100%"/>
